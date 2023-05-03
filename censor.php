@@ -23,6 +23,7 @@ $censor = str_replace($badword, '***', $paragraph);
             <?php
             echo $p_length;
             ?>
+            caratteri
         </p>
     </div>
 
@@ -33,6 +34,7 @@ $censor = str_replace($badword, '***', $paragraph);
             <?php
             echo $p_length;
             ?>
+            caratteri
         </p>
     </div>
 </body>
